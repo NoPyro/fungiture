@@ -16,6 +16,6 @@ public class Fungiture implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Hello Fungal world!");
+		LOGGER.info("Hello fungal world!");
 	}
 }
